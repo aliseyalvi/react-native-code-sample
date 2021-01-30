@@ -1,0 +1,17 @@
+export const images = {
+  icon: require('../images/react-icon.png'),
+  logo: require('../images/logo.png'),
+  appIcon: require('../images/app-icon.png'),
+  trialBanner: require('../images/trial-banner.png'),
+  challengeBanner: require('../images/challenge-banner.png'),
+  goldNext: require('../images/gold-next.png'),
+  information: require('../images/information.png'),
+  logoServ: require('../images/logo-serv.png'),
+  help: require('../images/help.png'),
+  settings: require('../images/settings.png'),
+  topRanking: require('../images/top-ranking.png'),
+  backIconBlack: require('../images/back-icon-black.png'),
+  backIconWhite: require('../images/back-icon-white.png'),
+  authHeaderIcon: require('../images/auth-header-icon.png'),
+  edit: require('../images/ic_edit.png'),
+};
