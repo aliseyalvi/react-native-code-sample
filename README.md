@@ -1,5 +1,5 @@
 # react-native-code-sample
-The code sample are taken from an active in development to showcase my upto data code structure and style in react-native.
+The code sample are taken from an active in development react native app to showcase my upto date code structure and styling in react-native using typescript.
 
 # tech-stack
 
